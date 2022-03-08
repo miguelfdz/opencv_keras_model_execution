@@ -1,0 +1,11 @@
+0 Planograma
+1 Ruffles de Queso
+2 Paquetaxo Quexo
+3 Fritos Sal y limón
+4 Fritos Chile y limón
+5 Cheetos Flaming Hot
+6 Sabritas Originales
+7 Tostitos Flaming Hot
+8 Tostitos Salsa Verde
+9 Cheetos Azules
+10 Sabritas Adobadas
