@@ -1,2 +1,3 @@
-# opencv_keras_model_execution
-Execute keras image recognition model with OpenCV
+# OpenCV image recognition model execution
+Python code to run image recognition model in a development environment.
+
